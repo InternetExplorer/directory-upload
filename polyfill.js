@@ -145,7 +145,7 @@
 				shadow.innerHTML = '<div style="border: 1px solid #999; padding: 3px; width: 235px; box-sizing: content-box; font-size: 14px; height: 21px;">'
 					+ '<div id="fileButtons" style="box-sizing: content-box;">'
 					+ '<button id="button1" style="width: 100px; box-sizing: content-box;">Choose file(s)...</button>'
-					+ '<button id="button2" style="width: 100px; box-sizing: content-box; margin-left: 3px;">Choose folder...</button>'
+					+ '<button id="button2" style="width: 100px; box-sizing: content-box; margin-left: 3px;">Choose directory...</button>'
 					+ '</div>'
 					+ '<div id="filesChosen" style="padding: 3px; display: none; box-sizing: content-box;"><span id="filesChosenText">files selected...</span>'
 					+ '<a id="clear" title="Clear selection" href="javascript:;" style="text-decoration: none; float: right; margin: -3px -1px 0 0; padding: 3px; font-weight: bold; font-size: 16px; color:#999; box-sizing: content-box;">&times;</a>'
